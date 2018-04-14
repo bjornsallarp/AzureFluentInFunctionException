@@ -1,0 +1,106 @@
+﻿{
+  "value": [
+    {
+      "id": "/subscriptions/...",
+      "name": "???",
+      "type": "Microsoft.Web/global",
+      "kind": "app",
+      "location": "West Europe",
+      "tags": {
+        "hidden-related:/subscriptions/...": "empty"
+      },
+      "properties": {
+        "name": "????",
+        "state": "Running",
+        "hostNames": [ "????.azurewebsites.net" ],
+        "webSpace": "????-WestEuropewebspace",
+        "selfLink": "https://waws-prod-am2-139.api.azurewebsites.windows.net:454/subscriptions/????",
+        "repositorySiteName": "????",
+        "owner": null,
+        "usageState": "Normal",
+        "enabled": true,
+        "adminEnabled": true,
+        "enabledHostNames": [ "????.azurewebsites.net", "????.scm.azurewebsites.net" ],
+        "siteProperties": {
+          "metadata": null,
+          "properties": [
+            {
+              "name": "LinuxFxVersion",
+              "value": ""
+            }
+          ],
+          "appSettings": null
+        },
+        "availabilityState": "Normal",
+        "sslCertificates": [],
+        "csrs": [],
+        "cers": null,
+        "siteMode": "Limited",
+        "hostNameSslStates": [
+          {
+            "name": "????.azurewebsites.net",
+            "sslState": "Disabled",
+            "ipBasedSslResult": null,
+            "virtualIP": null,
+            "thumbprint": null,
+            "toUpdate": null,
+            "toUpdateIpBasedSsl": null,
+            "ipBasedSslState": "NotConfigured",
+            "hostType": "Standard"
+          },
+          {
+            "name": "????.scm.azurewebsites.net",
+            "sslState": "Disabled",
+            "ipBasedSslResult": null,
+            "virtualIP": null,
+            "thumbprint": null,
+            "toUpdate": null,
+            "toUpdateIpBasedSsl": null,
+            "ipBasedSslState": "NotConfigured",
+            "hostType": "Repository"
+          }
+        ],
+        "computeMode": "Dedicated",
+        "serverFarm": null,
+        "serverFarmId": "/subscriptions/????",
+        "reserved": false,
+        "lastModifiedTimeUtc": "2018-03-28T13:19:18.0733333",
+        "storageRecoveryDefaultState": "Running",
+        "contentAvailabilityState": "Normal",
+        "runtimeAvailabilityState": "Normal",
+        "siteConfig": null,
+        "deploymentId": "????",
+        "trafficManagerHostNames": null,
+        "sku": "Standard",
+        "scmSiteAlsoStopped": false,
+        "targetSwapSlot": null,
+        "hostingEnvironment": null,
+        "hostingEnvironmentProfile": null,
+        "clientAffinityEnabled": true,
+        "clientCertEnabled": false,
+        "hostNamesDisabled": false,
+        "domainVerificationIdentifiers": null,
+        "kind": "app",
+        "outboundIpAddresses": "1.1.1.1",
+        "possibleOutboundIpAddresses": "1.1.1.1",
+        "containerSize": 0,
+        "dailyMemoryTimeQuota": 0,
+        "suspendedTill": null,
+        "siteDisabledReason": 0,
+        "functionExecutionUnitsCache": null,
+        "maxNumberOfWorkers": null,
+        "homeStamp": "waws-prod-am2-139",
+        "cloningInfo": null,
+        "snapshotInfo": null,
+        "hostingEnvironmentId": null,
+        "tags": {
+          "hidden-related:/subscriptions/????": "empty"
+        },
+        "resourceGroup": "rg-????",
+        "defaultHostName": "????.azurewebsites.net",
+        "slotSwapStatus": null,
+        "httpsOnly": false
+      }
+    }
+  ]
+}
